@@ -77,10 +77,5 @@
 
 </h4>  
   
-<div align="center">
-  <a href="https://rashmikaakash.github.io/RashmikaAkash/">
-  <img  src="https://github.com/RashmikaAkash/RashmikaAkash/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <br/>
