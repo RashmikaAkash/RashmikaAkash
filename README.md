@@ -50,7 +50,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaAkash&theme=react-dark&hide_border=true&area=true)
 
-
+<div align="center">
 <h4 align="center">
   
 ```diff
@@ -77,6 +77,6 @@
 
 </h4>  
 
-<div align="center">
+</div>
 
 <br/>
