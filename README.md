@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmika Akash</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka | Innovative Developer | Creator of Seamless Solutions | Crafting Unique Digital Experiences</h3>
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmikaakash&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikaakash" /> </p>
 
