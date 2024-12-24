@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://www.linkedin.com/in/pavithnimantha/)
 <h1 align="center">Hi 👋, I'm Rashmika Akash</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka | Innovative Developer | Creator of Seamless Solutions | Crafting Unique Digital Experiences</h3>
 
