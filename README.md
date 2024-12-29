@@ -8,9 +8,9 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on **Travel_SriLanka**
+- 🔭 I’m currently working on **illumin-labs**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **ThreeJS**
 
 - 👨‍💻 All of my projects are available at [https://rashmikaakash.netlify.app/](https://rashmikaakash.netlify.app/)
 
