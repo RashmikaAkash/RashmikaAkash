@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://www.linkedin.com/in/pavithnimantha/)
 <h1 align="center">Hi 👋, I'm Rashmika Akash</h1>
 
-<div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&random=false&width=435&lines=A+passionate+frontend+developer;Innovative+Developer;Creator+of+Seamless+Solutions;Crafting+Unique+Digital+Experiences;Student+SLIIT;" alt="Typing SVG" /></a></div>
+<div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&random=false&width=435&lines=Happy+New+Year;A+passionate+frontend+developer;Innovative+Developer;Creator+of+Seamless+Solutions;Crafting+Unique+Digital+Experiences;Student+SLIIT;" alt="Typing SVG" /></a></div>
 
 
 ---
