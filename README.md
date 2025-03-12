@@ -50,8 +50,13 @@
 </details>
 <br>
 
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=RashmikaAkash&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaAkash&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
 <h4 align="center">
