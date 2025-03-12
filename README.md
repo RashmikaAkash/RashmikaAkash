@@ -1,6 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://www.linkedin.com/in/pavithnimantha/)
 <h1 align="center">Hi 👋, I'm Rashmika Akash</h1>
 
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=RashmikaAkash&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+
 <div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&random=false&width=435&lines=A+passionate+frontend+developer;Innovative+Developer;Creator+of+Seamless+Solutions;Crafting+Unique+Digital+Experiences;Student+SLIIT;" alt="Typing SVG" /></a></div>
 
 
@@ -50,9 +54,7 @@
 </details>
 <br>
 
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=RashmikaAkash&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
